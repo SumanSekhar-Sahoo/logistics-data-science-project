@@ -234,17 +234,16 @@ This dataset may contain personal customer information.
 
 **Tools:** Python, Pandas, SQL, Excel, Jupyter Notebook, Git, and GitHub
 
-Add your team members' names and individual responsibilities here.
 ## 👥 Project Team
 
 This project is a collaborative effort focused on logistics and last-mile delivery data quality analysis using Python, Pandas, SQL, and Excel.
 
 | S. No. | Team Member          | GitHub Profile                                                          |
 | -----: | -------------------- | ----------------------------------------------------------------------- |
-|      1 | Suman Sekhar Sahoo   | [SumanSekhar-Sahoo](https://github.com/SumanSekhar-Sahoo)               |
+|      1 | Abhishikta Mishra    | [abhishiktamishra04-coder](https://github.com/abhishiktamishra04-coder) |
 |      2 | Pankaj Kumar Behera  | [Pankaj-k-Coder](https://github.com/Pankaj-k-Coder)                     |
 |      3 | Sai Siva Sundar Jena | [SaiSiva0312](https://github.com/SaiSiva0312)                           |
-|      4 | Abhishikta Mishra    | [abhishiktamishra04-coder](https://github.com/abhishiktamishra04-coder) |
+|      4 | Suman Sekhar Sahoo   |  [SumanSekhar-Sahoo](https://github.com/SumanSekhar-Sahoo)               |
 
 
 ---
