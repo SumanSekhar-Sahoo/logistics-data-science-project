@@ -1,0 +1,11 @@
+Test_ID,Description,Result
+TC01,Tracking ID normalized,PASS
+TC02,Equivalent weights match,PASS
+TC03,Timezone converted to 03:30 UTC,PASS
+TC04,Missing timezone detected,PASS
+TC05,Negative weight rejected,PASS
+TC06,Invalid GPS detected,PASS
+TC07,Delivery before pickup detected,PASS
+TC08,Carrier mapped to FASTSHIP,PASS
+TC09,Duplicate tracking ID detected,PASS
+TC10,Late delivery detected,PASS
